@@ -45,10 +45,10 @@ Replace `maze.txt` with the path to your maze file.
 ### `maze1.txt`
 
 1. Console Output:
-   ![Conole Output of maze1](screenshots\maze_1_run.png)
+   ![Conole Output of maze1](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_1_run.png)
 
 2. Maze Solution Visualization:
-   ![Visual Output of maze1](screenshots\maze_1_solve.png)
+   ![Visual Output of maze1](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_1_solve.png)
 
 3. Original Maze File (maze1.txt):
    ```
@@ -64,10 +64,10 @@ Replace `maze.txt` with the path to your maze file.
 ### `maze2.txt`
 
 1. Console Output:
-   ![Conole Output of maze2](screenshots\maze_2_run.png)
+   ![Conole Output of maze2](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_2_run.png)
 
 2. Maze Solution Visualization:
-   ![Visual Output of maze2](screenshots\maze_2_solve.png)
+   ![Visual Output of maze2](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_2_solve.png)
 
 3. Original Maze File (maze2.txt):
    ```
@@ -92,10 +92,10 @@ Replace `maze.txt` with the path to your maze file.
 ### `maze3.txt`
 
 1. Console Output:
-   ![Conole Output of maze3](screenshots\maze_3_run.png)
+   ![Conole Output of maze3](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_3_run.png)
 
 2. Maze Solution Visualization:
-   ![Visual Output of maze3](screenshots\maze_3_solve.png)
+   ![Visual Output of maze3](https://raw.githubusercontent.com/nawaz0x1/AI-Lab/refs/heads/main/Search%20Algorithms/screenshots/maze_3_solve.png)
 
 3. Original Maze File (maze3.txt):
    ```
